@@ -1,0 +1,22 @@
+[
+  {
+    "id": "fall_2025",
+    "label": "Fall 2025",
+    "n": 3377,
+    "n_youth": 1969,
+    "moe_national": 2.09,
+    "moe_youth": 2.43,
+    "deff_national": 1.537,
+    "frame": "sample_records.txt"
+  },
+  {
+    "id": "spring_2026",
+    "label": "Spring 2026",
+    "n": 3328,
+    "n_youth": 1919,
+    "moe_national": 2.11,
+    "moe_youth": 2.49,
+    "deff_national": 1.536,
+    "frame": "sample_records.txt"
+  }
+]

@@ -1,0 +1,691 @@
+{
+ "over_18_label": [
+  "Yes"
+ ],
+ "consent_q_label": [
+  "Yes"
+ ],
+ "us_voter_label": [
+  "Yes, I am registered to vote"
+ ],
+ "gender_label": [
+  "Man",
+  "Woman"
+ ],
+ "education_label": [
+  "Some high school or less",
+  "High school diploma or GED",
+  "Some college, but no degree",
+  "Associates or technical degree",
+  "Bachelor's degree",
+  "Graduate or professional degree (MA, MS, MBA, PhD, JD, MD, DDS, etc.)"
+ ],
+ "income_label": [
+  "Under $25,000",
+  "At least $25,000 but under $50,000",
+  "At least $50,000 but under $100,000",
+  "At least $100,000 but under $200,000",
+  "$200,000 or more"
+ ],
+ "sexuality_label": [
+  "Straight (heterosexual)",
+  "Gay or lesbian",
+  "Bisexual",
+  "Prefer not to say",
+  "Other"
+ ],
+ "religion_label": [
+  "Protestant",
+  "Roman Catholic",
+  "Mormon",
+  "Orthodox, such as Greek or Russian Orthodox",
+  "Jewish",
+  "Muslim",
+  "Buddhist",
+  "Hindu",
+  "Atheist",
+  "Agnostic",
+  "Something else",
+  "Nothing in particular"
+ ],
+ "jewish_id_label": [
+  "Yes",
+  "No"
+ ],
+ "anes_party_id_label": [
+  "Republican",
+  "Democrat",
+  "Independent",
+  "Other"
+ ],
+ "pid_leaners_label": [
+  "The Democratic Party",
+  "The Republican Party",
+  "Neither"
+ ],
+ "anes_ideology_label": [
+  "Extremely liberal",
+  "Liberal",
+  "Slightly liberal",
+  "Moderate; middle of the road",
+  "Slightly conservative",
+  "Conservative",
+  "Extremely conservative"
+ ],
+ "2024_recalled_vote_label": [
+  "Kamala Harris",
+  "Donald Trump",
+  "Other",
+  "Did not vote",
+  "Was not old enough to vote"
+ ],
+ "need_for_cognition_1_label": [
+  "Strongly agree",
+  "Agree",
+  "Neither agree nor disagree",
+  "Disagree",
+  "Strongly disagree"
+ ],
+ "need_for_cognition_2_label": [
+  "Strongly agree",
+  "Agree",
+  "Neither agree nor disagree",
+  "Disagree",
+  "Strongly disagree"
+ ],
+ "trump_approval_label": [
+  "Strongly approve",
+  "Somewhat approve",
+  "Somewhat disapprove",
+  "Strongly disapprove",
+  "Not sure or no opinion"
+ ],
+ "generic_ballot_label": [
+  "The Democrat",
+  "The Republican",
+  "Don't know"
+ ],
+ "issue_rank_maxdiff_label": [
+  "Cost of living/affordability",
+  "Healthcare",
+  "Jobs",
+  "Taxes",
+  "The national debt",
+  "Corruption",
+  "Social Security",
+  "Medicaid and Medicare",
+  "K-12 education",
+  "Abortion",
+  "Crime",
+  "Israel and Palestine",
+  "Race relations",
+  "Diplomatic relations",
+  "Climate change",
+  "The environment",
+  "Election integrity",
+  "Immigration",
+  "Regulating businesses and corporations",
+  "Ukraine and Russia",
+  "Acceptance of gay people",
+  "Acceptance of transgender people",
+  "Higher education",
+  "China",
+  "Trade",
+  "Artificial intelligence",
+  "Guns",
+  "Democracy",
+  "Free speech",
+  "Housing"
+ ],
+ "br_change_label": [
+  "Things are going well in America and no real changes are needed",
+  "Things could be going better in America and what is needed is a return to basic stability",
+  "Things in America are going poorly and what is needed is a major change and a shock to the system",
+  "Not sure"
+ ],
+ "change_party_label": [
+  "The Democratic Party",
+  "The Republican Party",
+  "Both parties equally",
+  "Neither party",
+  "Not sure"
+ ],
+ "future_optimism_label": [
+  "Very optimistic",
+  "Somewhat optimistic",
+  "Not very optimistic",
+  "Not optimistic at all",
+  "Not sure or no opinion"
+ ],
+ "attention_check_label": [
+  "Healthcare"
+ ],
+ "2028_dem_primary_label": [
+  "Andy Beshear",
+  "Alexandria Ocasio-Cortez",
+  "Kamala Harris",
+  "Wes Moore",
+  "Gavin Newsom",
+  "JB Pritzker",
+  "Josh Shapiro",
+  "Gretchen Whitmer",
+  "Mark Cuban",
+  "Ruben Gallego",
+  "Mark Kelly",
+  "Jared Polis",
+  "Pete Buttigieg",
+  "Cory Booker",
+  "Tim Walz",
+  "Jon Ossoff",
+  "Chris Murphy",
+  "Raphael Warnock",
+  "Rahm Emanuel",
+  "Other"
+ ],
+ "d_electable_maxdiff_label": [
+  "Andy Beshear",
+  "Alexandria Ocasio-Cortez",
+  "Kamala Harris",
+  "Wes Moore",
+  "Gavin Newsom",
+  "JB Pritzker",
+  "Josh Shapiro",
+  "Gretchen Whitmer",
+  "Mark Cuban",
+  "Ruben Gallego",
+  "Mark Kelly",
+  "Jared Polis",
+  "Pete Buttigieg",
+  "Cory Booker",
+  "Tim Walz",
+  "Jon Ossoff",
+  "Chris Murphy",
+  "Raphael Warnock",
+  "Rahm Emanuel"
+ ],
+ "d_base_vs_swing_label": [
+  "Democrats need to focus on energizing and turning out their voter base by running on progressive policies.",
+  "Democrats need to focus on moderating their policies and ideology in order to appeal to a wider range of voters.",
+  "Democrats don't need to change much from their 2024 strategy."
+ ],
+ "2028_gop_primary_label": [
+  "JD Vance",
+  "Ron DeSantis",
+  "Brian Kemp",
+  "Glenn Youngkin",
+  "Nikki Haley",
+  "Mike Pence",
+  "Vivek Ramaswamy",
+  "Ted Cruz",
+  "Marco Rubio",
+  "Josh Hawley",
+  "Tim Scott",
+  "Tulsi Gabbard",
+  "Robert F. Kennedy Jr.",
+  "Steve Bannon",
+  "Tucker Carlson",
+  "Kristi Noem",
+  "Katie Britt",
+  "Donald Trump Jr.",
+  "Greg Abbott",
+  "Elise Stefanik",
+  "Other"
+ ],
+ "2028_gop_primary_djt_label": [
+  "Donald J. Trump",
+  "JD Vance",
+  "Ron DeSantis",
+  "Brian Kemp",
+  "Glenn Youngkin",
+  "Nikki Haley",
+  "Mike Pence",
+  "Vivek Ramaswamy",
+  "Ted Cruz",
+  "Marco Rubio",
+  "Josh Hawley",
+  "Tim Scott",
+  "Tulsi Gabbard",
+  "Robert F. Kennedy Jr.",
+  "Steve Bannon",
+  "Tucker Carlson",
+  "Kristi Noem",
+  "Katie Britt",
+  "Doug Burgum",
+  "Greg Abbott",
+  "Elise Stefanik",
+  "Other"
+ ],
+ "r_electable_maxdiff_label": [
+  "JD Vance",
+  "Ron DeSantis",
+  "Brian Kemp",
+  "Glenn Youngkin",
+  "Nikki Haley",
+  "Mike Pence",
+  "Vivek Ramaswamy",
+  "Ted Cruz",
+  "Marco Rubio",
+  "Josh Hawley",
+  "Tim Scott",
+  "Tulsi Gabbard",
+  "Robert F. Kennedy Jr.",
+  "Steve Bannon",
+  "Tucker Carlson",
+  "Kristi Noem",
+  "Katie Britt",
+  "Doug Burgum",
+  "Donald Trump Jr.",
+  "Greg Abbott",
+  "Elise Stefanik"
+ ],
+ "r_base_vs_swing_label": [
+  "Republicans need to focus on energizing and turning out the base, by running on conservative, America-first policies that give their voters something to vote for",
+  "Republicans need to focus on moderating in order to appeal to the swing voters and independents who decide elections",
+  "Republicans don't need to change much from their 2024 strategy"
+ ],
+ "hersh_battery_1_label": [
+  "Strongly agree",
+  "Somewhat agree",
+  "Neither agree nor disagree",
+  "Somewhat disagree",
+  "Strongly disagree"
+ ],
+ "hersh_battery_2_label": [
+  "Strongly agree",
+  "Somewhat agree",
+  "Neither agree nor disagree",
+  "Somewhat disagree",
+  "Strongly disagree"
+ ],
+ "hersh_battery_3_label": [
+  "Strongly agree",
+  "Somewhat agree",
+  "Neither agree nor disagree",
+  "Somewhat disagree",
+  "Strongly disagree"
+ ],
+ "as_scenarios_1_label": [
+  "It is a form of anti-Jewish prejudice",
+  "It is NOT a form of anti-Jewish prejudice",
+  "Not sure"
+ ],
+ "as_scenarios_2_label": [
+  "It is a form of anti-Jewish prejudice",
+  "It is NOT a form of anti-Jewish prejudice",
+  "Not sure"
+ ],
+ "as_scenarios_3_label": [
+  "It is a form of anti-Jewish prejudice",
+  "It is NOT a form of anti-Jewish prejudice",
+  "Not sure"
+ ],
+ "as_scenarios_4_label": [
+  "It is a form of anti-Jewish prejudice",
+  "It is NOT a form of anti-Jewish prejudice",
+  "Not sure"
+ ],
+ "as_scenarios_5_label": [
+  "It is a form of anti-Jewish prejudice",
+  "It is NOT a form of anti-Jewish prejudice",
+  "Not sure"
+ ],
+ "as_scenarios_6_label": [
+  "It is a form of anti-Jewish prejudice",
+  "It is NOT a form of anti-Jewish prejudice",
+  "Not sure"
+ ],
+ "as_scenarios_7_label": [
+  "It is a form of anti-Jewish prejudice",
+  "It is NOT a form of anti-Jewish prejudice",
+  "Not sure"
+ ],
+ "as_scenarios_8_label": [
+  "It is a form of anti-Jewish prejudice",
+  "It is NOT a form of anti-Jewish prejudice",
+  "Not sure"
+ ],
+ "as_scenarios_9_label": [
+  "It is a form of anti-Jewish prejudice",
+  "It is NOT a form of anti-Jewish prejudice",
+  "Not sure"
+ ],
+ "as_scenarios_10_label": [
+  "It is a form of anti-Jewish prejudice",
+  "It is NOT a form of anti-Jewish prejudice",
+  "Not sure"
+ ],
+ "as_scenarios_11_label": [
+  "It is a form of anti-Jewish prejudice",
+  "It is NOT a form of anti-Jewish prejudice",
+  "Not sure"
+ ],
+ "as_scenarios_12_label": [
+  "It is a form of anti-Jewish prejudice",
+  "It is NOT a form of anti-Jewish prejudice",
+  "Not sure"
+ ],
+ "zionism_def_8_label": [
+  "I'm not familiar with the term \"Zionism\""
+ ],
+ "role_of_jews_label": [
+  "Positive impact",
+  "Negative impact",
+  "No impact or neutral impact",
+  "Not sure"
+ ],
+ "jews_left_right_label": [
+  "Jews have pushed American politics to the right.",
+  "Jews have pushed American politics to the left.",
+  "Jews have not pushed American politics to either side.",
+  "Not sure"
+ ],
+ "israel_exist_label": [
+  "Israel should exist as a Jewish state",
+  "Israel should exist, but not as a Jewish state",
+  "Israel should not exist",
+  "Not sure"
+ ],
+ "israel_military_aid_label": [
+  "Increasing military aid to Israel",
+  "Maintaining the same amount of military aid to Israel",
+  "Decreasing military aid to Israel",
+  "Stopping all military aid to Israel",
+  "Not sure"
+ ],
+ "obbba_benefits_label": [
+  "The poor (people making less than $25,000)",
+  "The working class (people making $25,000 to $50,000)",
+  "The middle class (people making $50,000 to $100,000)",
+  "The upper middle class (people making $100,000 to $200,000)",
+  "The wealthy (people making more than $200,000)",
+  "Billionaires",
+  "Groups will benefit roughly equally",
+  "Not sure"
+ ],
+ "obbba_effects_gen_1_label": [
+  "Agree",
+  "Disagree",
+  "Not sure"
+ ],
+ "obbba_effects_gen_2_label": [
+  "Agree",
+  "Disagree",
+  "Not sure"
+ ],
+ "obbba_effects_gen_3_label": [
+  "Agree",
+  "Disagree",
+  "Not sure"
+ ],
+ "obbba_effects_gen_4_label": [
+  "Agree",
+  "Disagree",
+  "Not sure"
+ ],
+ "obbba_effects_gen_5_label": [
+  "Agree",
+  "Disagree",
+  "Not sure"
+ ],
+ "obbba_effects_pers_label": [
+  "Will improve my personal finances",
+  "Will hurt my personal finances",
+  "Will have no effect on my personal finances",
+  "Not sure"
+ ],
+ "obbba_maxdiff_1_label": [
+  "Democrats say: ${e://Field/d_msg_1}",
+  "Republicans say: ${e://Field/r_msg_1}"
+ ],
+ "obbba_maxdiff_2_label": [
+  "Democrats say: ${e://Field/d_msg_2}",
+  "Republicans say: ${e://Field/r_msg_2}"
+ ],
+ "obbba_maxdiff_3_label": [
+  "Democrats say: ${e://Field/d_msg_3}",
+  "Republicans say: ${e://Field/r_msg_3}"
+ ],
+ "obbba_maxdiff_4_label": [
+  "Democrats say: ${e://Field/d_msg_4}",
+  "Republicans say: ${e://Field/r_msg_4}"
+ ],
+ "leah_battery_1_label": [
+  "Yes",
+  "No",
+  "Not sure"
+ ],
+ "leah_battery_2_label": [
+  "Yes",
+  "No",
+  "Not sure"
+ ],
+ "leah_battery_3_label": [
+  "Yes",
+  "No",
+  "Not sure"
+ ],
+ "leah_battery_4_label": [
+  "Yes",
+  "No",
+  "Not sure"
+ ],
+ "milestones_label": [
+  "I have less experience than my peers",
+  "I have average experience relative to my peers",
+  "I have more experience than my peers",
+  "Not sure"
+ ],
+ "trad_battery_1_label": [
+  "The man",
+  "The woman",
+  "Doesn't matter/both equally",
+  "Not sure"
+ ],
+ "trad_battery_2_label": [
+  "The man",
+  "The woman",
+  "Doesn't matter/both equally",
+  "Not sure"
+ ],
+ "trad_battery_3_label": [
+  "The man",
+  "The woman",
+  "Doesn't matter/both equally",
+  "Not sure"
+ ],
+ "trad_battery_4_label": [
+  "The man",
+  "The woman",
+  "Doesn't matter/both equally",
+  "Not sure"
+ ],
+ "trad_battery_5_label": [
+  "The man",
+  "The woman",
+  "Doesn't matter/both equally",
+  "Not sure"
+ ],
+ "manosphere_battery_1_label": [
+  "Strongly agree",
+  "Somewhat agree",
+  "Neither agree nor disagree",
+  "Somewhat disagree",
+  "Strongly disagree"
+ ],
+ "manosphere_battery_2_label": [
+  "Strongly agree",
+  "Somewhat agree",
+  "Neither agree nor disagree",
+  "Somewhat disagree",
+  "Strongly disagree"
+ ],
+ "manosphere_battery_3_label": [
+  "Strongly agree",
+  "Somewhat agree",
+  "Neither agree nor disagree",
+  "Somewhat disagree",
+  "Strongly disagree"
+ ],
+ "manosphere_battery_4_label": [
+  "Strongly agree",
+  "Somewhat agree",
+  "Neither agree nor disagree",
+  "Somewhat disagree",
+  "Strongly disagree"
+ ],
+ "manosphere_battery_5_label": [
+  "Strongly agree",
+  "Somewhat agree",
+  "Neither agree nor disagree",
+  "Somewhat disagree",
+  "Strongly disagree"
+ ],
+ "manosphere_battery_6_label": [
+  "Strongly agree",
+  "Somewhat agree",
+  "Neither agree nor disagree",
+  "Somewhat disagree",
+  "Strongly disagree"
+ ],
+ "gender_wars_1_label": [
+  "Young men",
+  "Young women",
+  "Both equally",
+  "Not sure"
+ ],
+ "gender_wars_2_label": [
+  "Young men",
+  "Young women",
+  "Both equally",
+  "Not sure"
+ ],
+ "gender_wars_3_label": [
+  "Young men",
+  "Young women",
+  "Both equally",
+  "Not sure"
+ ],
+ "gender_wars_4_label": [
+  "Young men",
+  "Young women",
+  "Both equally",
+  "Not sure"
+ ],
+ "gender_wars_5_label": [
+  "Young men",
+  "Young women",
+  "Both equally",
+  "Not sure"
+ ],
+ "who_defines_a_1_label": [
+  "Leaders in the Jewish community"
+ ],
+ "who_defines_a_2_label": [
+  "Academic experts on antisemitism"
+ ],
+ "who_defines_a_3_label": [
+  "American society as a whole"
+ ],
+ "who_defines_a_4_label": [
+  "The U.S. government"
+ ],
+ "who_defines_a_5_label": [
+  "The university president"
+ ],
+ "who_defines_a_6_label": [
+  "The Jewish community as a whole"
+ ],
+ "who_defines_a_7_label": [
+  "None of the above"
+ ],
+ "who_defines_b_1_label": [
+  "Leaders in the Muslim community"
+ ],
+ "who_defines_b_2_label": [
+  "Academic experts on Islamophobia"
+ ],
+ "who_defines_b_3_label": [
+  "American society as a whole"
+ ],
+ "who_defines_b_4_label": [
+  "The U.S. government"
+ ],
+ "who_defines_b_5_label": [
+  "The university president"
+ ],
+ "who_defines_b_6_label": [
+  "The Muslim community as a whole"
+ ],
+ "who_defines_b_7_label": [
+  "None of the above"
+ ],
+ "who_defines_c_1_label": [
+  "Leaders in the Black community"
+ ],
+ "who_defines_c_2_label": [
+  "Academic experts on anti-Black racism"
+ ],
+ "who_defines_c_3_label": [
+  "American society as a whole"
+ ],
+ "who_defines_c_4_label": [
+  "The U.S. government"
+ ],
+ "who_defines_c_5_label": [
+  "The university president"
+ ],
+ "who_defines_c_6_label": [
+  "The Black community as a whole"
+ ],
+ "who_defines_c_7_label": [
+  "None of the above"
+ ],
+ "zionism_def_1_label": [
+  "A movement for self-determination and statehood for the Jewish people in their ancestral homeland"
+ ],
+ "zionism_def_2_label": [
+  "Support for the continued existence of Israel, in the face of calls for its destruction or dissolution"
+ ],
+ "zionism_def_3_label": [
+  "The belief that, if the other peoples of the world have a right to statehood, then the Jewish people have the same right"
+ ],
+ "zionism_def_4_label": [
+  "Establishing and maintaining a Jewish demographic majority in Palestine by driving out the native Palestinian population"
+ ],
+ "zionism_def_5_label": [
+  "The creation of a nation-state where Jews get more rights than others on the land"
+ ],
+ "zionism_def_6_label": [
+  "A form of racism and apartheid against Palestinians"
+ ],
+ "zionism_def_7_label": [
+  "None of the above"
+ ],
+ "age_bin": [
+  "18-22",
+  "23-29",
+  "30-34",
+  "35-44",
+  "45-64",
+  "65+"
+ ],
+ "gender": [
+  "Male",
+  "Female"
+ ],
+ "race": [
+  "White",
+  "Black",
+  "Hispanic",
+  "Asian",
+  "Other"
+ ],
+ "education": [
+  "No College",
+  "College+"
+ ],
+ "binary_race": [
+  "White",
+  "Non-white"
+ ]
+}

@@ -1,0 +1,1108 @@
+{
+ "over_18_label": [
+  "Yes"
+ ],
+ "consent_q_label": [
+  "Yes"
+ ],
+ "us_voter_label": [
+  "Yes, I am registered to vote"
+ ],
+ "parents_ideology_label": [
+  "Extremely liberal",
+  "Liberal",
+  "Slightly liberal",
+  "Moderate; middle of the road",
+  "Slightly conservative",
+  "Conservative",
+  "Extremely conservative",
+  "My parents do not (or did not) hold the same views",
+  "Don't know or not applicable"
+ ],
+ "pol_vio_scenarios_1_label": [
+  "Calling political opponents \"authoritarian,\" \"a threat to democracy,\" or \"fascist\""
+ ],
+ "pol_vio_scenarios_2_label": [
+  "Using racial or religious slurs to insult someone"
+ ],
+ "pol_vio_scenarios_3_label": [
+  "Shouting at a political speaker you disagree with"
+ ],
+ "pol_vio_scenarios_4_label": [
+  "Ripping down a political poster in a public place"
+ ],
+ "pol_vio_scenarios_5_label": [
+  "Trying to get someone fired from their job because of their political views"
+ ],
+ "pol_vio_scenarios_6_label": [
+  "Smashing the windows of a business because of the owner's political views"
+ ],
+ "pol_vio_scenarios_7_label": [
+  "Beating someone up because of their political views"
+ ],
+ "pol_vio_scenarios_8_label": [
+  "Beating someone up because of their race, sex, religion, or sexual orientation"
+ ],
+ "pol_vio_scenarios_9_label": [
+  "None of the above"
+ ],
+ "pres_immunity_label": [
+  "The ruling is dangerous because it places the president above the law, potentially allowing them to abuse their power without ever facing justice.",
+  "The ruling is necessary to protect the president's ability to take decisive action without the constant fear of politically-motivated prosecution.",
+  "Not sure or no opinion"
+ ],
+ "pres_battery_1_label": [
+  "Strongly agree",
+  "Somewhat agree",
+  "Neither agree nor disagree",
+  "Somewhat disagree",
+  "Strongly disagree"
+ ],
+ "pres_battery_2_label": [
+  "Strongly agree",
+  "Somewhat agree",
+  "Neither agree nor disagree",
+  "Somewhat disagree",
+  "Strongly disagree"
+ ],
+ "pres_battery_3_label": [
+  "Strongly agree",
+  "Somewhat agree",
+  "Neither agree nor disagree",
+  "Somewhat disagree",
+  "Strongly disagree"
+ ],
+ "pres_battery_4_label": [
+  "Strongly agree",
+  "Somewhat agree",
+  "Neither agree nor disagree",
+  "Somewhat disagree",
+  "Strongly disagree"
+ ],
+ "pres_battery_5_label": [
+  "Strongly agree",
+  "Somewhat agree",
+  "Neither agree nor disagree",
+  "Somewhat disagree",
+  "Strongly disagree"
+ ],
+ "pres_battery_6_label": [
+  "Strongly agree",
+  "Somewhat agree",
+  "Neither agree nor disagree",
+  "Somewhat disagree",
+  "Strongly disagree"
+ ],
+ "pres_battery_7_label": [
+  "Strongly agree",
+  "Somewhat agree",
+  "Neither agree nor disagree",
+  "Somewhat disagree",
+  "Strongly disagree"
+ ],
+ "ordinary_influence_label": [
+  "No influence",
+  "A little influence",
+  "Some influence",
+  "A lot of influence"
+ ],
+ "feeling_of_safety_1_label": [
+  "Strongly agree",
+  "Somewhat agree",
+  "Neither agree nor disagree",
+  "Somewhat disagree",
+  "Strongly disagree"
+ ],
+ "feeling_of_safety_2_label": [
+  "Strongly agree",
+  "Somewhat agree",
+  "Neither agree nor disagree",
+  "Somewhat disagree",
+  "Strongly disagree"
+ ],
+ "stigma_a_label": [
+  "I would feel uncomfortable telling friends or family I am receiving SNAP benefits",
+  "I would feel comfortable telling friends or family I am receiving SNAP benefits",
+  "Not sure"
+ ],
+ "stigma_b_label": [
+  "I would feel uncomfortable telling friends or family I am receiving Medicaid",
+  "I would feel comfortable telling friends or family I am receiving Medicaid",
+  "Not sure"
+ ],
+ "stigma_c_label": [
+  "I would feel uncomfortable telling friends or family I am receiving Social Security benefits",
+  "I would feel comfortable telling friends or family I am receiving Social Security benefits",
+  "Not sure"
+ ],
+ "burden_a_label": [
+  "The government has too much paperwork and too many requirements for people to access benefit programs like food assistance and health insurance.",
+  "The government has too little paperwork and too few requirements to stop fraud and ensure that only the right people are accessing benefit programs.",
+  "Not sure or no opinion"
+ ],
+ "burden_b_label": [
+  "The government has too much paperwork and too many requirements for people to vote and register to vote.",
+  "The government has too little paperwork and too few requirements to stop fraud and ensure that only the right people are voting and registering to vote.",
+  "Not sure or no opinion"
+ ],
+ "burden_c_label": [
+  "The government has too much paperwork and too many requirements for people to purchase guns.",
+  "The government has too little paperwork and too few requirements to stop fraud and ensure that only the right people are purchasing guns.",
+  "Not sure or no opinion"
+ ],
+ "ice_budget_label": [
+  "Increasing the ICE budget",
+  "Maintaining the ICE budget",
+  "Reducing the ICE budget",
+  "Eliminating the ICE budget",
+  "Not sure or no opinion"
+ ],
+ "donor_a_1_label": [
+  "Strongly agree",
+  "Somewhat agree",
+  "Neither agree nor disagree",
+  "Somewhat disagree",
+  "Strongly disagree"
+ ],
+ "donor_a_2_label": [
+  "Strongly agree",
+  "Somewhat agree",
+  "Neither agree nor disagree",
+  "Somewhat disagree",
+  "Strongly disagree"
+ ],
+ "donor_a_3_label": [
+  "Strongly agree",
+  "Somewhat agree",
+  "Neither agree nor disagree",
+  "Somewhat disagree",
+  "Strongly disagree"
+ ],
+ "donor_b_1_label": [
+  "Strongly agree",
+  "Somewhat agree",
+  "Neither agree nor disagree",
+  "Somewhat disagree",
+  "Strongly disagree"
+ ],
+ "donor_b_2_label": [
+  "Strongly agree",
+  "Somewhat agree",
+  "Neither agree nor disagree",
+  "Somewhat disagree",
+  "Strongly disagree"
+ ],
+ "donor_b_3_label": [
+  "Strongly agree",
+  "Somewhat agree",
+  "Neither agree nor disagree",
+  "Somewhat disagree",
+  "Strongly disagree"
+ ],
+ "attention_check_label": [
+  "Healthcare"
+ ],
+ "hersh_battery_1_label": [
+  "Strongly agree",
+  "Somewhat agree",
+  "Neither agree nor disagree",
+  "Somewhat disagree",
+  "Strongly disagree"
+ ],
+ "hersh_battery_2_label": [
+  "Strongly agree",
+  "Somewhat agree",
+  "Neither agree nor disagree",
+  "Somewhat disagree",
+  "Strongly disagree"
+ ],
+ "hersh_battery_3_label": [
+  "Strongly agree",
+  "Somewhat agree",
+  "Neither agree nor disagree",
+  "Somewhat disagree",
+  "Strongly disagree"
+ ],
+ "as_statements_1_label": [
+  "Strongly agree",
+  "Somewhat agree",
+  "Neither agree nor disagree",
+  "Somewhat disagree",
+  "Strongly disagree"
+ ],
+ "as_statements_2_label": [
+  "Strongly agree",
+  "Somewhat agree",
+  "Neither agree nor disagree",
+  "Somewhat disagree",
+  "Strongly disagree"
+ ],
+ "as_statements_3_label": [
+  "Strongly agree",
+  "Somewhat agree",
+  "Neither agree nor disagree",
+  "Somewhat disagree",
+  "Strongly disagree"
+ ],
+ "as_statements_4_label": [
+  "Strongly agree",
+  "Somewhat agree",
+  "Neither agree nor disagree",
+  "Somewhat disagree",
+  "Strongly disagree"
+ ],
+ "as_statements_5_label": [
+  "Strongly agree",
+  "Somewhat agree",
+  "Neither agree nor disagree",
+  "Somewhat disagree",
+  "Strongly disagree"
+ ],
+ "as_statements_6_label": [
+  "Strongly agree",
+  "Somewhat agree",
+  "Neither agree nor disagree",
+  "Somewhat disagree",
+  "Strongly disagree"
+ ],
+ "israel_views_1_label": [
+  "Strongly agree",
+  "Somewhat agree",
+  "Neither agree nor disagree",
+  "Somewhat disagree",
+  "Strongly disagree"
+ ],
+ "israel_views_2_label": [
+  "Strongly agree",
+  "Somewhat agree",
+  "Neither agree nor disagree",
+  "Somewhat disagree",
+  "Strongly disagree"
+ ],
+ "israel_views_3_label": [
+  "Strongly agree",
+  "Somewhat agree",
+  "Neither agree nor disagree",
+  "Somewhat disagree",
+  "Strongly disagree"
+ ],
+ "israel_views_4_label": [
+  "Strongly agree",
+  "Somewhat agree",
+  "Neither agree nor disagree",
+  "Somewhat disagree",
+  "Strongly disagree"
+ ],
+ "israel_views_5_label": [
+  "Strongly agree",
+  "Somewhat agree",
+  "Neither agree nor disagree",
+  "Somewhat disagree",
+  "Strongly disagree"
+ ],
+ "israel_views_6_label": [
+  "Strongly agree",
+  "Somewhat agree",
+  "Neither agree nor disagree",
+  "Somewhat disagree",
+  "Strongly disagree"
+ ],
+ "conflation_a_label": [
+  "Israel's actions in Gaza have made me think more negatively of Jewish people.",
+  "Israel's actions in Gaza have made me think more positively of Jewish people.",
+  "Israel's actions in Gaza have had no effect on my views of Jewish people.",
+  "Not sure"
+ ],
+ "conflation_b_label": [
+  "Israel's actions in Gaza have made me think more negatively of Israeli people.",
+  "Israel's actions in Gaza have made me think more positively of Israeli people.",
+  "Israel's actions in Gaza have had no effect on my views of Israeli people.",
+  "Not sure"
+ ],
+ "conflation_c_label": [
+  "Israel's actions in Gaza have made me think more negatively of Israel.",
+  "Israel's actions in Gaza have made me think more positively of Israel.",
+  "Israel's actions in Gaza have had no effect on my views of Israel.",
+  "Not sure"
+ ],
+ "holocaust_battery_1_label": [
+  "Strongly agree",
+  "Somewhat agree",
+  "Neither agree nor disagree",
+  "Somewhat disagree",
+  "Strongly disagree"
+ ],
+ "holocaust_battery_2_label": [
+  "Strongly agree",
+  "Somewhat agree",
+  "Neither agree nor disagree",
+  "Somewhat disagree",
+  "Strongly disagree"
+ ],
+ "holocaust_battery_3_label": [
+  "Strongly agree",
+  "Somewhat agree",
+  "Neither agree nor disagree",
+  "Somewhat disagree",
+  "Strongly disagree"
+ ],
+ "holocaust_battery_4_label": [
+  "Strongly agree",
+  "Somewhat agree",
+  "Neither agree nor disagree",
+  "Somewhat disagree",
+  "Strongly disagree"
+ ],
+ "holocaust_battery_5_label": [
+  "Strongly agree",
+  "Somewhat agree",
+  "Neither agree nor disagree",
+  "Somewhat disagree",
+  "Strongly disagree"
+ ],
+ "race_a_label": [
+  "Strongly agree",
+  "Somewhat agree",
+  "Neither agree nor disagree",
+  "Somewhat disagree",
+  "Strongly disagree"
+ ],
+ "race_b_label": [
+  "Strongly agree",
+  "Somewhat agree",
+  "Neither agree nor disagree",
+  "Somewhat disagree",
+  "Strongly disagree"
+ ],
+ "dei_label": [
+  "These programs should do more to include Jews than they do right now.",
+  "These programs should include Jews the same amount as they do right now.",
+  "These programs should focus on more marginalized communities rather than Jews.",
+  "These programs should not exist.",
+  "Not sure"
+ ],
+ "ai_familiarity_1_label": [
+  "Not familiar",
+  "Somewhat familiar",
+  "Familiar",
+  "Very familiar"
+ ],
+ "ai_familiarity_2_label": [
+  "Not familiar",
+  "Somewhat familiar",
+  "Familiar",
+  "Very familiar"
+ ],
+ "ai_familiarity_3_label": [
+  "Not familiar",
+  "Somewhat familiar",
+  "Familiar",
+  "Very familiar"
+ ],
+ "ai_familiarity_4_label": [
+  "Not familiar",
+  "Somewhat familiar",
+  "Familiar",
+  "Very familiar"
+ ],
+ "ai_familiarity_5_label": [
+  "Not familiar",
+  "Somewhat familiar",
+  "Familiar",
+  "Very familiar"
+ ],
+ "ai_familiarity_6_label": [
+  "Not familiar",
+  "Somewhat familiar",
+  "Familiar",
+  "Very familiar"
+ ],
+ "ai_familiarity_7_label": [
+  "Not familiar",
+  "Somewhat familiar",
+  "Familiar",
+  "Very familiar"
+ ],
+ "ai_familiarity_8_label": [
+  "Not familiar",
+  "Somewhat familiar",
+  "Familiar",
+  "Very familiar"
+ ],
+ "ai_familiarity_9_label": [
+  "Not familiar",
+  "Somewhat familiar",
+  "Familiar",
+  "Very familiar"
+ ],
+ "ai_familiarity_10_label": [
+  "Not familiar",
+  "Somewhat familiar",
+  "Familiar",
+  "Very familiar"
+ ],
+ "ai_frequency_label": [
+  "Daily or more",
+  "A few times a week",
+  "About once a week",
+  "A few times a month or less",
+  "Never"
+ ],
+ "ai_uses_1_label": [
+  "Daily or more",
+  "A few times a week",
+  "About once a week",
+  "A few times a month or less",
+  "Never"
+ ],
+ "ai_uses_2_label": [
+  "Daily or more",
+  "A few times a week",
+  "About once a week",
+  "A few times a month or less",
+  "Never"
+ ],
+ "ai_uses_3_label": [
+  "Daily or more",
+  "A few times a week",
+  "About once a week",
+  "A few times a month or less",
+  "Never"
+ ],
+ "ai_uses_4_label": [
+  "Daily or more",
+  "A few times a week",
+  "About once a week",
+  "A few times a month or less",
+  "Never"
+ ],
+ "ai_uses_5_label": [
+  "Daily or more",
+  "A few times a week",
+  "About once a week",
+  "A few times a month or less",
+  "Never"
+ ],
+ "ai_uses_6_label": [
+  "Daily or more",
+  "A few times a week",
+  "About once a week",
+  "A few times a month or less",
+  "Never"
+ ],
+ "ai_uses_7_label": [
+  "Daily or more",
+  "A few times a week",
+  "About once a week",
+  "A few times a month or less",
+  "Never"
+ ],
+ "ai_ethics_1_label": [
+  "Strongly agree",
+  "Somewhat agree",
+  "Neither agree nor disagree",
+  "Somewhat disagree",
+  "Strongly disagree"
+ ],
+ "ai_ethics_2_label": [
+  "Strongly agree",
+  "Somewhat agree",
+  "Neither agree nor disagree",
+  "Somewhat disagree",
+  "Strongly disagree"
+ ],
+ "ai_regulation_1_label": [
+  "International agencies"
+ ],
+ "ai_regulation_2_label": [
+  "The federal government"
+ ],
+ "ai_regulation_3_label": [
+  "U.S. state governments"
+ ],
+ "ai_regulation_4_label": [
+  "The companies that make the AI systems"
+ ],
+ "ai_regulation_5_label": [
+  "AI should not be regulated at all"
+ ],
+ "ai_regulation_6_label": [
+  "Not sure or no opinion"
+ ],
+ "ai_situations_1_label": [
+  "AI should do all of the work",
+  "AI should do most of the work with some human assistance",
+  "Humans should do most of the work with some AI assistance",
+  "Humans should do all of the work",
+  "Not sure or no opinion"
+ ],
+ "ai_situations_2_label": [
+  "AI should do all of the work",
+  "AI should do most of the work with some human assistance",
+  "Humans should do most of the work with some AI assistance",
+  "Humans should do all of the work",
+  "Not sure or no opinion"
+ ],
+ "ai_situations_3_label": [
+  "AI should do all of the work",
+  "AI should do most of the work with some human assistance",
+  "Humans should do most of the work with some AI assistance",
+  "Humans should do all of the work",
+  "Not sure or no opinion"
+ ],
+ "ai_situations_4_label": [
+  "AI should do all of the work",
+  "AI should do most of the work with some human assistance",
+  "Humans should do most of the work with some AI assistance",
+  "Humans should do all of the work",
+  "Not sure or no opinion"
+ ],
+ "ai_situations_5_label": [
+  "AI should do all of the work",
+  "AI should do most of the work with some human assistance",
+  "Humans should do most of the work with some AI assistance",
+  "Humans should do all of the work",
+  "Not sure or no opinion"
+ ],
+ "ai_situations_6_label": [
+  "AI should do all of the work",
+  "AI should do most of the work with some human assistance",
+  "Humans should do most of the work with some AI assistance",
+  "Humans should do all of the work",
+  "Not sure or no opinion"
+ ],
+ "ai_situations_7_label": [
+  "AI should do all of the work",
+  "AI should do most of the work with some human assistance",
+  "Humans should do most of the work with some AI assistance",
+  "Humans should do all of the work",
+  "Not sure or no opinion"
+ ],
+ "ai_risks_md1_label": [
+  "Harming the environment through its water usage and carbon emissions",
+  "Eliminating white-collar and professional jobs by replacing human workers",
+  "Eliminating blue-collar and manual jobs by replacing human workers",
+  "Generating false or misleading information",
+  "Amplifying hate speech or extremist content",
+  "Expanding government surveillance of ordinary citizens",
+  "Replacing human creativity in art, music, and entertainment",
+  "Carrying out sophisticated cyberattacks",
+  "Automating military weapons and targeting decisions",
+  "Making discriminatory or biased decisions in hiring, banking, or law enforcement",
+  "Scamming people by imitating a family member's or public figure's voice or image",
+  "Collecting and selling people's personal data without their consent",
+  "Plagiarizing copyrighted creative work without permission or compensation",
+  "Becoming too smart for humans to control",
+  "Deepening inequality by concentrating benefits among wealthy people and nations",
+  "Making it easier for people to rely on AI instead of learning and thinking for themselves"
+ ],
+ "ai_risks_md2_label": [
+  "Harming the environment through its water usage and carbon emissions",
+  "Eliminating white-collar and professional jobs by replacing human workers",
+  "Eliminating blue-collar and manual jobs by replacing human workers",
+  "Generating false or misleading information",
+  "Amplifying hate speech or extremist content",
+  "Expanding government surveillance of ordinary citizens",
+  "Replacing human creativity in art, music, and entertainment",
+  "Carrying out sophisticated cyberattacks",
+  "Automating military weapons and targeting decisions",
+  "Making discriminatory or biased decisions in hiring, banking, or law enforcement",
+  "Scamming people by imitating a family member's or public figure's voice or image",
+  "Collecting and selling people's personal data without their consent",
+  "Plagiarizing copyrighted creative work without permission or compensation",
+  "Becoming too smart for humans to control",
+  "Deepening inequality by concentrating benefits among wealthy people and nations",
+  "Making it easier for people to rely on AI instead of learning and thinking for themselves"
+ ],
+ "ai_benefits_md1_label": [
+  "Achieving breakthroughs in medicine, science, and engineering",
+  "Making workers more productive by handling repetitive and time-consuming tasks",
+  "Increasing economic growth and lowering costs for consumers",
+  "Strengthening cybersecurity",
+  "Making artistic expression more accessible to regular people",
+  "Performing dangerous jobs that that put human workers at risk",
+  "Improving customer service by eliminating hold times and waits",
+  "Analyzing large amounts of data for governments, businesses, and researchers",
+  "Providing personalized advice, assistance, and information for everyday tasks and questions",
+  "Driving cars, buses, and other vehicles to improve transportation safety",
+  "Helping solve complex global challenges like climate change and food security",
+  "Providing free or low-cost access to legal, financial, and medical guidance",
+  "Offering personalized tutoring and educational support to students",
+  "Assisting people with disabilities in communication, mobility, and general daily life",
+  "Making government services more efficient and responsive",
+  "Translating languages in real time to make communication easier"
+ ],
+ "ai_benefits_md2_label": [
+  "Achieving breakthroughs in medicine, science, and engineering",
+  "Making workers more productive by handling repetitive and time-consuming tasks",
+  "Increasing economic growth and lowering costs for consumers",
+  "Strengthening cybersecurity",
+  "Making artistic expression more accessible to regular people",
+  "Performing dangerous jobs that that put human workers at risk",
+  "Improving customer service by eliminating hold times and waits",
+  "Analyzing large amounts of data for governments, businesses, and researchers",
+  "Providing personalized advice, assistance, and information for everyday tasks and questions",
+  "Driving cars, buses, and other vehicles to improve transportation safety",
+  "Helping solve complex global challenges like climate change and food security",
+  "Providing free or low-cost access to legal, financial, and medical guidance",
+  "Offering personalized tutoring and educational support to students",
+  "Assisting people with disabilities in communication, mobility, and general daily life",
+  "Making government services more efficient and responsive",
+  "Translating languages in real time to make communication easier"
+ ],
+ "ai_recognition_1_label": [
+  "Extremely confident",
+  "Somewhat confident",
+  "Somewhat unconfident",
+  "Extremely unconfident",
+  "Not sure"
+ ],
+ "ai_recognition_2_label": [
+  "Extremely confident",
+  "Somewhat confident",
+  "Somewhat unconfident",
+  "Extremely unconfident",
+  "Not sure"
+ ],
+ "ai_recognition_3_label": [
+  "Extremely confident",
+  "Somewhat confident",
+  "Somewhat unconfident",
+  "Extremely unconfident",
+  "Not sure"
+ ],
+ "ai_recognition_4_label": [
+  "Extremely confident",
+  "Somewhat confident",
+  "Somewhat unconfident",
+  "Extremely unconfident",
+  "Not sure"
+ ],
+ "ai_test_1_label": [
+  "The image is AI generated",
+  "The image is not AI generated"
+ ],
+ "ai_test_2_label": [
+  "The image is AI generated",
+  "The image is not AI generated"
+ ],
+ "ai_test_3_label": [
+  "The image is AI generated",
+  "The image is not AI generated"
+ ],
+ "ai_test_4_label": [
+  "The image is AI generated",
+  "The image is not AI generated"
+ ],
+ "trump_approval_label": [
+  "Strongly approve",
+  "Somewhat approve",
+  "Somewhat disapprove",
+  "Strongly disapprove",
+  "Not sure or no opinion"
+ ],
+ "generic_ballot_label": [
+  "The Democrat",
+  "The Republican",
+  "Don't know"
+ ],
+ "issue_maxdiff1_label": [
+  "Cost of living/affordability",
+  "Healthcare",
+  "Jobs",
+  "Taxes",
+  "The national debt",
+  "Corruption",
+  "Social Security",
+  "Medicaid and Medicare",
+  "K-12 education",
+  "Abortion",
+  "Crime",
+  "Israel and Palestine",
+  "Race relations",
+  "Foreign policy",
+  "Climate change",
+  "The environment",
+  "Election integrity",
+  "Immigration",
+  "Regulating businesses and corporations",
+  "Ukraine and Russia",
+  "Acceptance of gay people",
+  "Acceptance of transgender people",
+  "Higher education",
+  "China",
+  "Trade",
+  "Artificial intelligence",
+  "Guns",
+  "Democracy",
+  "Free speech",
+  "Housing"
+ ],
+ "issue_maxdiff2_label": [
+  "Cost of living/affordability",
+  "Healthcare",
+  "Jobs",
+  "Taxes",
+  "The national debt",
+  "Corruption",
+  "Social Security",
+  "Medicaid and Medicare",
+  "K-12 education",
+  "Abortion",
+  "Crime",
+  "Israel and Palestine",
+  "Race relations",
+  "Foreign policy",
+  "Climate change",
+  "The environment",
+  "Election integrity",
+  "Immigration",
+  "Regulating businesses and corporations",
+  "Ukraine and Russia",
+  "Acceptance of gay people",
+  "Acceptance of transgender people",
+  "Higher education",
+  "China",
+  "Trade",
+  "Artificial intelligence",
+  "Guns",
+  "Democracy",
+  "Free speech",
+  "Housing"
+ ],
+ "issue_maxdiff3_label": [
+  "Cost of living/affordability",
+  "Healthcare",
+  "Jobs",
+  "Taxes",
+  "The national debt",
+  "Corruption",
+  "Social Security",
+  "Medicaid and Medicare",
+  "K-12 education",
+  "Abortion",
+  "Crime",
+  "Israel and Palestine",
+  "Race relations",
+  "Foreign policy",
+  "Climate change",
+  "The environment",
+  "Election integrity",
+  "Immigration",
+  "Regulating businesses and corporations",
+  "Ukraine and Russia",
+  "Acceptance of gay people",
+  "Acceptance of transgender people",
+  "Higher education",
+  "China",
+  "Trade",
+  "Artificial intelligence",
+  "Guns",
+  "Democracy",
+  "Free speech",
+  "Housing"
+ ],
+ "anes_party_id_label": [
+  "Republican",
+  "Democrat",
+  "Independent",
+  "Other"
+ ],
+ "pid_leaners_label": [
+  "Republican",
+  "Democratic",
+  "Neither"
+ ],
+ "2028_dem_primary_label": [
+  "Andy Beshear",
+  "Alexandria Ocasio-Cortez",
+  "Kamala Harris",
+  "Wes Moore",
+  "Gavin Newsom",
+  "JB Pritzker",
+  "Josh Shapiro",
+  "Gretchen Whitmer",
+  "Mark Cuban",
+  "Ruben Gallego",
+  "Mark Kelly",
+  "Jared Polis",
+  "Pete Buttigieg",
+  "Cory Booker",
+  "Tim Walz",
+  "Jon Ossoff",
+  "Chris Murphy",
+  "Raphael Warnock",
+  "Rahm Emanuel",
+  "Abigail Spanberger",
+  "Other"
+ ],
+ "d_electable_maxdiff_label": [
+  "Andy Beshear",
+  "Alexandria Ocasio-Cortez",
+  "Kamala Harris",
+  "Wes Moore",
+  "Gavin Newsom",
+  "JB Pritzker",
+  "Josh Shapiro",
+  "Gretchen Whitmer",
+  "Mark Cuban",
+  "Ruben Gallego",
+  "Mark Kelly",
+  "Jared Polis",
+  "Pete Buttigieg",
+  "Cory Booker",
+  "Tim Walz",
+  "Jon Ossoff",
+  "Chris Murphy",
+  "Raphael Warnock",
+  "Rahm Emanuel",
+  "Abigail Spanberger"
+ ],
+ "d_base_vs_swing_label": [
+  "Democrats need to focus on energizing and turning out their voter base by running on progressive policies.",
+  "Democrats need to focus on moderating their policies and ideology in order to appeal to a wider range of voters.",
+  "Democrats don't need to change much from their 2024 strategy."
+ ],
+ "2028_gop_primary_label": [
+  "JD Vance",
+  "Ron DeSantis",
+  "Brian Kemp",
+  "Glenn Youngkin",
+  "Nikki Haley",
+  "Mike Pence",
+  "Vivek Ramaswamy",
+  "Ted Cruz",
+  "Marco Rubio",
+  "Josh Hawley",
+  "Tim Scott",
+  "Tulsi Gabbard",
+  "Robert F. Kennedy Jr.",
+  "Steve Bannon",
+  "Tucker Carlson",
+  "Kristi Noem",
+  "Katie Britt",
+  "Doug Burgum",
+  "Donald Trump Jr.",
+  "Greg Abbott",
+  "Elise Stefanik",
+  "Other"
+ ],
+ "2028_gop_primary_djt_label": [
+  "Donald J. Trump",
+  "JD Vance",
+  "Ron DeSantis",
+  "Brian Kemp",
+  "Glenn Youngkin",
+  "Nikki Haley",
+  "Mike Pence",
+  "Vivek Ramaswamy",
+  "Ted Cruz",
+  "Marco Rubio",
+  "Josh Hawley",
+  "Tim Scott",
+  "Tulsi Gabbard",
+  "Robert F. Kennedy Jr.",
+  "Steve Bannon",
+  "Tucker Carlson",
+  "Kristi Noem",
+  "Katie Britt",
+  "Doug Burgum",
+  "Greg Abbott",
+  "Elise Stefanik",
+  "Other"
+ ],
+ "r_electable_maxdiff_label": [
+  "JD Vance",
+  "Ron DeSantis",
+  "Brian Kemp",
+  "Glenn Youngkin",
+  "Nikki Haley",
+  "Mike Pence",
+  "Vivek Ramaswamy",
+  "Ted Cruz",
+  "Marco Rubio",
+  "Josh Hawley",
+  "Tim Scott",
+  "Tulsi Gabbard",
+  "Robert F. Kennedy Jr.",
+  "Steve Bannon",
+  "Tucker Carlson",
+  "Kristi Noem",
+  "Katie Britt",
+  "Doug Burgum",
+  "Donald Trump Jr.",
+  "Greg Abbott",
+  "Elise Stefanik"
+ ],
+ "gop_base_vs_swing_label": [
+  "Republicans need to focus on energizing and turning out the base by running on conservative, America-first policies.",
+  "Republicans need to focus on moderating their policies and ideology in order to appeal to a wider range of voters.",
+  "Republicans don't need to change much from their 2024 strategy."
+ ],
+ "gender_label": [
+  "Man",
+  "Woman"
+ ],
+ "ces_race_1_label": [
+  "White"
+ ],
+ "ces_race_2_label": [
+  "Black or African-American"
+ ],
+ "ces_race_3_label": [
+  "Hispanic or Latino"
+ ],
+ "ces_race_4_label": [
+  "Asian or Asian-American"
+ ],
+ "ces_race_5_label": [
+  "Native American"
+ ],
+ "ces_race_6_label": [
+  "Middle Eastern"
+ ],
+ "ces_race_7_label": [
+  "Two or more races"
+ ],
+ "ces_race_8_label": [
+  "Other"
+ ],
+ "education_label": [
+  "Some high school or less",
+  "High school diploma or GED",
+  "Some college, but no degree",
+  "Associates or technical degree",
+  "Bachelor's degree",
+  "Graduate or professional degree (MA, MS, MBA, PhD, JD, MD, DDS, etc.)"
+ ],
+ "income_label": [
+  "Under $25,000",
+  "At least $25,000 but under $50,000",
+  "At least $50,000 but under $100,000",
+  "At least $100,000 but under $200,000",
+  "$200,000 or more"
+ ],
+ "sexuality_label": [
+  "Straight (heterosexual)",
+  "Gay or lesbian",
+  "Bisexual",
+  "Prefer not to say",
+  "Other"
+ ],
+ "religion_label": [
+  "Protestant",
+  "Roman Catholic",
+  "Mormon",
+  "Orthodox, such as Greek or Russian Orthodox",
+  "Jewish",
+  "Muslim",
+  "Buddhist",
+  "Hindu",
+  "Atheist",
+  "Agnostic",
+  "Something else",
+  "Nothing in particular"
+ ],
+ "jewish_id_label": [
+  "Yes",
+  "No"
+ ],
+ "anes_ideology_label": [
+  "Extremely liberal",
+  "Liberal",
+  "Slightly liberal",
+  "Moderate; middle of the road",
+  "Slightly conservative",
+  "Conservative",
+  "Extremely conservative"
+ ],
+ "2024_recalled_vote_label": [
+  "Kamala Harris",
+  "Donald Trump",
+  "Other",
+  "Did not vote",
+  "Was not old enough to vote"
+ ],
+ "arg_news_sources_1_label": [
+  "X (formerly Twitter)"
+ ],
+ "arg_news_sources_2_label": [
+  "Cable television"
+ ],
+ "arg_news_sources_3_label": [
+  "Facebook"
+ ],
+ "arg_news_sources_4_label": [
+  "Local television"
+ ],
+ "arg_news_sources_5_label": [
+  "Podcasts and YouTube"
+ ],
+ "arg_news_sources_6_label": [
+  "Broadcast television"
+ ],
+ "arg_news_sources_7_label": [
+  "Newspapers or news websites"
+ ],
+ "arg_news_sources_8_label": [
+  "Instagram"
+ ],
+ "arg_news_sources_9_label": [
+  "Reddit"
+ ],
+ "arg_news_sources_10_label": [
+  "TikTok"
+ ],
+ "need_for_cognition_1_label": [
+  "Strongly agree",
+  "Agree",
+  "Neither agree nor disagree",
+  "Disagree",
+  "Strongly disagree"
+ ],
+ "need_for_cognition_2_label": [
+  "Strongly agree",
+  "Agree",
+  "Neither agree nor disagree",
+  "Disagree",
+  "Strongly disagree"
+ ],
+ "age_bin": [
+  "18-22",
+  "23-29",
+  "30-34",
+  "35-44",
+  "45-64",
+  "65+"
+ ],
+ "gender": [
+  "Male",
+  "Female"
+ ],
+ "race": [
+  "White",
+  "Black",
+  "Hispanic",
+  "Asian",
+  "Other"
+ ],
+ "education": [
+  "No College",
+  "College+"
+ ],
+ "binary_race": [
+  "White",
+  "Non-white"
+ ],
+ "region": [
+  "Northeast",
+  "South",
+  "Midwest",
+  "West"
+ ],
+ "partisanship": [
+  "modeled Trump",
+  "modeled swing",
+  "modeled Harris"
+ ]
+}
